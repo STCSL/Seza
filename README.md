@@ -1,4 +1,4 @@
 Seza
 ====
 
-general pourpose serializer/deserializer for C++
+general purpose serializer/deserializer for C++
