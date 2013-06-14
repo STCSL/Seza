@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.8)
+project(Seza)
+enable_testing()
+find_package(GTest REQUIRED)
+add_subdirectory (json)

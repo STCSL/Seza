@@ -1,0 +1,6 @@
+# ignore vim swap files
+.*.swp
+
+# ignore cmake build directories
+build/
+output/
